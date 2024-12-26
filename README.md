@@ -3,7 +3,7 @@ To Conduct a Comprehensive Analysis of Blinkit's sales performance, customer sat
 **Business Requirements**
 
 
-a)**KPI's Requirements**
+a) **KPI's Requirements**
 
 1.Total sales
 
@@ -14,7 +14,7 @@ a)**KPI's Requirements**
 4.Average Rating
 
 
-b)**Chart's Requirements**
+b) **Chart's Requirements**
 
 1.Total Sales by Fat Content
 
