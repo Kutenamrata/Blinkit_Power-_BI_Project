@@ -1,6 +1,10 @@
 To Conduct a Comprehensive Analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using KPIs and visualizations in Power BI. 
 
+**Business Requirements**
+
+
 **KPI's Requirements**
+
 1.Total sales
 
 2.Average Sales
