@@ -10,11 +10,17 @@ To Conduct a Comprehensive Analysis of Blinkit's sales performance, customer sat
 **Chart's Requirements**
 
 1.Total Sales by Fat Content
+
 2.Total Sales by Item Type
+
 3.Fat Content Outlet for Total Sales
+
 4.Total Sales by  Outlet Establishment
+
 5.Sales by Outlet Size
+
 6.Sales by Outlet Location
+
 7.All Metrics by Outlet Type
 
 
