@@ -2,8 +2,11 @@ To Conduct a Comprehensive Analysis of Blinkit's sales performance, customer sat
 
 **KPI's Requirements**
 1.Total sales
+
 2.Average Sales
+
 3.Number of Items
+
 4.Average Rating
 
 
